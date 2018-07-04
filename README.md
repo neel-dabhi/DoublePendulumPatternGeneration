@@ -45,9 +45,9 @@ Initial stage - Pattern Generated after 10 sec
 ![Initial](https://raw.githubusercontent.com/neelkanthjdabhi/DoublePendulumPatternGeneration/master/PStart.JPG)
 
 
-Mid stage - Pattern Generated after 1 min
+Mid stage - Pattern Generated after 3 min
 ![Mid](https://raw.githubusercontent.com/neelkanthjdabhi/DoublePendulumPatternGeneration/master/PMid.JPG)
 
 
-Mature stage -  Pattern Generated after 3 min
+Mature stage -  Pattern Generated after 8 min
 ![Mature](https://github.com/neelkanthjdabhi/DoublePendulumPatternGeneration/blob/master/PEnds.JPG?raw=true)
